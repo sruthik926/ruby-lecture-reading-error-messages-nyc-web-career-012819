@@ -1,3 +1,3 @@
-hello_world = "hello world"
+"hello world"
 
-return hello_world
+hello_world
